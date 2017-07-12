@@ -45,6 +45,6 @@ You can search for more information I created about "courses" and "users" throug
 * `/api/courses/:courseId/reviews`  POST - Creates a review for the specified course
 
 ## Images In ReadMes
-![](images/Screen%20Shot%202017-07-10%20at%206.07.07%20PM.png)
-![](images/Screen%20Shot%202017-07-10%20at%206.08.53%20PM.png)
-![](images/Screen%20Shot%202017-07-10%20at%206.09.43%20PM.png)
+![](src/images/Screen%20Shot%202017-07-10%20at%206.07.07%20PM.png)
+![](src/images/Screen%20Shot%202017-07-10%20at%206.08.53%20PM.png)
+![](src/images/Screen%20Shot%202017-07-10%20at%206.09.43%20PM.png)
